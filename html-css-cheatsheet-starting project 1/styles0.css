@@ -1,0 +1,22 @@
+#head{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: bold;
+  font-weight: bold;
+  background-color: aqua;
+  padding:8px;
+  margin: auto;
+  color:green;
+  text-align: center;
+}
+
+p{
+  background-color: blueviolet;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  background-color: burlywood;
+  background-image: url(../html-css-cheatsheet-starting/1.jpg);
+  padding:300px;
+}
